@@ -5,7 +5,7 @@ isoCode = "en"
 weight = 1
 rtl = false
 
-title = "Blowfish"
+title = "Bajac's blog"
 # logo = "img/logo.png"
 description = "My awesome website"
 # copyright = "Copy, _right?_ :thinking_face:"
@@ -18,8 +18,9 @@ dateFormat = "2 January 2006"
   headline = ""
   bio = "Recent graduate in Cyber Security. CTF and competitive programming enjoyer."
   links = [
-    { email = "mailto:baptiste.jacquemot@gmail.com" },
     { github = "https://github.com/bajacc" },
+    { email = "mailto:baptiste.jacquemot@gmail.com" },
+    { linkedin = "https://www.linkedin.com/in/baptiste-jacquemot-821627199/" },
     { instagram = "https://instagram.com/baptiste_jacquemot" },
     { youtube = "https://www.youtube.com/watch?v=dQw4w9WgXcQ" },
   ]
