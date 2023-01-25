@@ -5,21 +5,21 @@ isoCode = "en"
 weight = 1
 rtl = false
 
-title = "Bajac's blog"
-# logo = "img/logo.png"
-description = "My awesome website"
+title = "bajac's blog"
+#logo = "img/logo.png"
+description = "bajac's blog"
 # copyright = "Copy, _right?_ :thinking_face:"
 
 dateFormat = "2 January 2006"
 
 [author]
   name = "Baptiste Jacquemot"
-  image = "img/blowfish_logo.png"
+  image = "img/profile.png"
   headline = ""
   bio = "Recent graduate in Cyber Security. CTF and competitive programming enjoyer."
   links = [
     { github = "https://github.com/bajacc" },
-    { email = "mailto:baptiste.jacquemot@gmail.com" },
+  # { email = "mailto:baptiste.jacquemot@gmail.com" },
     { linkedin = "https://www.linkedin.com/in/baptiste-jacquemot-821627199/" },
     { instagram = "https://instagram.com/baptiste_jacquemot" },
     { youtube = "https://www.youtube.com/watch?v=dQw4w9WgXcQ" },
