@@ -16,10 +16,10 @@ dateFormat = "2 January 2006"
   name = "Baptiste Jacquemot"
   image = "img/profile.png"
   headline = ""
-  bio = "Recent graduate in Cyber Security. CTF and competitive programming enjoyer."
+  bio = "Recent master graduate in Cyber Security. CTF and competitive programming enjoyer."
   links = [
     { github = "https://github.com/bajacc" },
-  # { email = "mailto:baptiste.jacquemot@gmail.com" },
+  # { email = "" },
     { linkedin = "https://www.linkedin.com/in/baptiste-jacquemot-821627199/" },
     { instagram = "https://instagram.com/baptiste_jacquemot" },
     { youtube = "https://www.youtube.com/watch?v=dQw4w9WgXcQ" },
