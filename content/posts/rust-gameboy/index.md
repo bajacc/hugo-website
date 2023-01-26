@@ -6,3 +6,5 @@ tags: [rust, gameboy]
 ---
 
 ## !Article under construction!
+
+[Presentation slides](https://docs.google.com/presentation/d/1yGJixES2cXV-qltjYhOSmAeXdjo-iZektBRoXHCYmpU/edit?usp=sharing)
